@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/laila.sumiya/static/css/main.52a95e13.css",
-    "main.js": "/laila.sumiya/static/js/main.ce5645eb.js",
+    "main.js": "/laila.sumiya/static/js/main.65e0907c.js",
     "index.html": "/laila.sumiya/index.html",
     "main.52a95e13.css.map": "/laila.sumiya/static/css/main.52a95e13.css.map",
-    "main.ce5645eb.js.map": "/laila.sumiya/static/js/main.ce5645eb.js.map"
+    "main.65e0907c.js.map": "/laila.sumiya/static/js/main.65e0907c.js.map"
   },
   "entrypoints": [
     "static/css/main.52a95e13.css",
-    "static/js/main.ce5645eb.js"
+    "static/js/main.65e0907c.js"
   ]
 }
