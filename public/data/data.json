@@ -1,0 +1,68 @@
+{
+  "name": "Laila Sumiya Khan Nilo",
+  "designation": "Frontend Developer",
+  "company": "",
+  "overview": "I'm a frontend with 6 months of experience working with HTML, CSS Bootstrap and Javascript. I have a passion for coding. When I'm not coding, you can find me watching movies, listening to songs",
+  "experience": [
+    {
+      "role": "Frontend Developer Intern",
+      "company": "ShopUp",
+      "timeSpan": "January 2022 - June 2022",
+      "responsibility": "Developed the UI of an accounting application using HTML, CSS, Bootstrap and JavaScript."
+    }
+  ],
+  "skills": [
+    {
+      "hardSkills": [
+        {
+          "Back End": ["PHP"],
+          "Back End Framework": ["Laravel"],
+          "Front End": ["HTML", "CSS", "Javascript", "Bootstrap"],
+          "Front End Framework/Library": ["React"],
+          "Version Control": ["Git", "GitHub"],
+          "Office Tools": ["MS Word", "MS Excel", "MS Powerpoint"]
+        }
+      ],
+      "others": [
+        "Adaptability",
+        "Quick learner",
+        "Good problem solver",
+        "Dedicated to work",
+        "Team person",
+        "Can do attitude",
+        "Fluent in English and Bangla"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "institution": "BRAC University",
+      "major": "Computer Science & Engineering",
+      "cgpa": 3.09,
+      "time": "2017 - 2021"
+    },
+    {
+      "degree": "HSC",
+      "institution": "Ishwardi Government College",
+      "cgpa": 4.67,
+      "time": "2014 - 2016"
+    },
+    {
+      "degree": "SSC",
+      "institution": "Ikkhu Gobeshona High School",
+      "cgpa": 5.0,
+      "time": "2004 - 2014"
+    }
+  ],
+  "contact": [
+    {
+      "link": "mailto:nilokhan207@gmail.com",
+      "img": "gmail.png"
+    },
+    {
+      "link": "https://www.linkedin.com/in/laila-sumiya-khan-nilo/",
+      "img": "linkedin.png"
+    }
+  ]
+}
